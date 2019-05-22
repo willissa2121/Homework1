@@ -1,0 +1,143 @@
+.card{
+  background-color:teal;
+  height:90%;
+  width: 95%;;
+  position:relative;
+  margin:auto;
+  margin-top:25px;
+
+  
+}
+
+.card-body{
+  padding-top:25px;
+  background-color:white;
+  height:90%;
+  width:95%;
+  position:relative;
+  margin:auto;
+  margin-top:20px;
+  top:2.5%;
+  
+}
+.container{
+  margin-left:auto;
+  margin-right:auto;
+  
+  position:absolute;
+  height:80%;
+  width:90%;
+  background-color:gray;
+}
+
+h1{
+  display:inline;
+  position:relative;
+  left:3%;
+  background-color:teal;
+  color:white;
+  font-size:45px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header-border{
+  top:25px;
+  position:relative;
+  width: 95% ;
+  border-bottom:solid grey 1px;
+  margin:auto;
+}
+
+h2{
+  position:relative;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:teal;
+  font-size:35px;
+  margin:auto;
+  left:40%;
+}
+
+nav{
+  position:relative;
+  float:right;
+  font-size:30px;
+  color:blue;
+}
+a:visited{
+  color:blue;
+}
+a:hover{
+  color:green;
+}
+
+p{
+  font-size:18px;
+  line-height: 1.5em;
+  /* margin:15px;
+  padding:15px; */
+  float:left;
+  position:absolute;
+}
+
+.card-content{
+  float:left;
+
+}
+img{
+  height:300px;
+  width:300px;
+  margin-top:2%;
+  margin-left:35%;
+}
+
+#portfolio-p{
+  font-size:25px;
+  color:teal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left:25%;
+}
+
+.card-content-p{
+  text-align: center;
+  align-content:center;
+}
+
+#h2-p{
+  position:relative;
+  left:40%;
+}
+
+.contact-group{
+  margin:8px;
+  margin-top:15px;
+  padding:5px;
+  display:block;
+  width:95%
+}
+label{
+  float:left;
+  margin:10px;
+  padding:5px;
+  margin-left:2px;
+  padding-left:2px;
+}
+#message{
+  float:left;
+  width:95%;
+  margin:5px;
+  padding:5px;
+}
+
+button{
+ float:left;
+}
+
+#port-pic{
+  position:relative;
+  margin-left:0px;
+  left:-55px;
+}
+#port-pic:hover{
+  opacity:0.6;
+  transition:05.s ease
+}
