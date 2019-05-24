@@ -148,3 +148,7 @@ button{
 a:hover{
   color:blue;
 }
+
+textarea{
+  width:95%;
+}
