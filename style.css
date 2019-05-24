@@ -60,12 +60,10 @@ h2{
 nav{
   position:relative;
   float:right;
-  font-size:30px;
-  color:blue;
+  font-size:16px;
+  color:grey
 }
-a:visited{
-  color:blue;
-}
+
 a:hover{
   color:green;
 }
@@ -140,4 +138,13 @@ button{
 #port-pic:hover{
   opacity:0.6;
   transition:05.s ease
+}
+
+.link{
+  font-size:20px;
+  color:grey;
+  text-decoration:none;
+}
+a:hover{
+  color:blue;
 }
